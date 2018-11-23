@@ -1,0 +1,132 @@
+# jemdoc: {index.html}, nofooter  
+== Hemanth Sarabu
+
+~~~
+{}{img_left}{images/2.JPG}{220}{330}
+*hsarabu3 \[at\] gatech \[dot\] edu*
+
+I am a MSCSE candidate at Georgia Tech interested in Reinforcement Learning, Mod conducting research robotics research at the [https://www.gtri.gatech.edu/laboratories/aerospace-transportation-advanced-systems-laboratory Georgia Tech Research Institute] and the [https://www.cc.gatech.edu/~bboots3/ Robot Learning Lab, Georgia Institute of Technology].
+
+My research interests include Reinforcement Learning for Uncertain Spaces, Efficient Sampling and Dimensionality Reduction for Control
+
+I worked with [https://www.iitk.ac.in/aero/mangal/ Dr. Mangal Kothari] during my masters at IIT Kanpur. 
+
+Here is my [files/Hemanth_Sarabu.pdf resume].
+
+If you like [http://hemanthsarabu.wixsite.com/photo/ photography].
+
+~~~
+
+== Experience
+
+-  [https://www.gtri.gatech.edu/laboratories/aerospace-transportation-advanced-systems-laboratory Georgia Tech Research Institute] \n
+Research Assistant \n
+February 2018 - Present \n 
+Atlanta \n
+
+-- Perception and Planning in Highly Unstructured Environments \n
+-- Collaborative Apple Picking Robots \n
+-- Reduced Order Planning and Sampling \n
+
+Research on collaborative arms that use surveying and servoing as canonical tasks to discover and harvest apples. Designed and implemented algorithms for full intelligence pipeline, from apple detection (custom YOLO), mapping and planning for robustness and scalability. Simulations in V-REP and experiments in real orchards using two UR5s and Realsense cameras. Leveraging and extending the idea of clear path detection (subspace planning) in contrast to expensive state of the art methods.
+
+Exploring novel sampling techniques in conjunction with autoencoders to form smart priors on trajectories. 
+
+-  [https://www.cc.gatech.edu/~bboots3/ Robot Learning Lab, Georgia Institute of Technology] \n
+Research Assistant \n
+September 2018 - Present \n
+Greater Atlanta Area \n
+
+Teaching a deep model to generate optimal trajectories for GT Auto Rally
+cars to drive in rugged-terrain using policy gradient techniques. Currently integrating a Velodyne Puck lidar (vlp6) to existing rally car platform for obstacle detection and mapping.
+
+-  [https://www.cc.gatech.edu/~bboots3/ Project Specter, Georgia Institute of Technology] \n
+Researcher \n
+January 2018 - Present  \n
+Greater Atlanta Area \n
+
+Conceived and leading development of low-cost stereo vision guided
+autonomous quadrotor aircraft platform as part of the Robot Learning Lab at Georgia Tech. Implemented state estimation using Georgia Tech Smoothing and Mapping (GT-SaM) and VINS-Mono algorithms. Current focus is on Bayesian learning for high-speed way-finding in unknown environments.
+
+-  Crescer Engineering \n
+Founder \n
+December 2015 - Present \n
+
+Founded and manage consultancy accepting component design, design optimization, system analysis, onsite development,
+structural, and CFD analyses jobs. Modelled and implemented lap time simulator and trajectory planning algorithms for
+Breitling Racing team for the RedBull Air Race. Optimised flow through propulsion system of high performance watercraft.
+Currently supporting development future members of product family and accessories.
+
+-  [http://www.fmrl.gatech.edu/drupal/ FMRL, Georgia Institute of Technology] \n
+Research Assistant, Fluid Mechanics Research Lab \n
+October 2016 - May 2018 \n
+Greater Atlanta Area \n
+
+Developed reduced order approximation algorithms inspired by classical machine learning techniques (PCA) tailored for
+turbulent flow analysis in active flow control systems. Formulated codes based on Empirical Mode Decomposition (EMD),
+Proper Orthogonal Decomposition and Dynamic Mode Decomposition. Authoring paper on using online EMD for
+turbulent flow analysis and control.
+
+-  [https://www.nio.io/ NIO] \n
+Vehicle Safety Intern \n
+May 2017 - August 2017 \n
+San Francisco Bay Area \n
+
+
+-  [https://cfms.gatech.edu/index_files/research.htm CFMS Group, Georgia Institute of Technology] \n
+Research Assistant, Complex Fluid Modelling and Simulation Group \n
+October 2016 - May 2018 \n
+Greater Atlanta Area \n
+
+-  [https://cars.mclaren.com/ McLaren Automotive Ltd] \n
+Passive Safety and Analysis Engineer \n
+July 2014 - July 2015 \n
+Woking, England
+
+
+-  [http://www.asapwatercrafts.com/ ASAP Watercrafts] \n
+Mechanical Engineer - Design Analysis & Optimization \n
+August 2014 - February 2015 \n
+Nottingham, United Kingdom\n
+
+-  [https://www.mercedes-benz.co.in/passengercars.html Mercedes-Benz] \n
+Diagnostics Intern \n
+September 2012 - October 2012 \n
+Hyderabad, India
+
+-  [https://www.butterflyfields.com/ Butterfly Fields] \n
+Intern \n
+May 2008 - May 2011 \n
+
+
+== Academic Projects
+
+- [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Optimal Level-k Thinking Strategies for Pacman Players] \n
+January 2017 - Present \n 
+V. R. Makkapati and P. Tsiotras\n  
+International Symposium on Dynamic Games and Applications, 2018 (Invited Talk)
+
+- [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Project Ghost – Hyper Range Autonomous Glider] \n
+January 2017 - Present \n 
+V. R. Makkapati and P. Tsiotras\n  
+International Symposium on Dynamic Games and Applications, 2018 (Invited Talk)
+
+- [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Visual Cues and Planning Strategies during Indoor Navigation] \n
+January 2017 - Present \n 
+V. R. Makkapati and P. Tsiotras\n  
+International Symposium on Dynamic Games and Applications, 2018 (Invited Talk)
+
+- [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Segmentation of Fan-Bones in Images] \n
+January 2017 - Present \n 
+V. R. Makkapati and P. Tsiotras\n  
+International Symposium on Dynamic Games and Applications, 2018 (Invited Talk)
+
+- [https://symposia.gerad.ca/isdg2018/en/schedule?slot_id=1511 Sailing Race Path Planning] \n
+January 2017 - Present \n 
+V. R. Makkapati and P. Tsiotras\n  
+International Symposium on Dynamic Games and Applications, 2018 (Invited Talk)
+
+== Education
+- M.S., Computational Science and Engineering, [https://cse.gatech.edu/ Georgia Institute of Tech], In Progress (2019)
+- M.S., Mechanical Engineering, [http://www.me.gatech.edu/ Georgia Institute of Technology], 2018
+- B.Eng., Mechanical Engineering, [http://www.mace.manchester.ac.uk/ University of Manchester], 2016
